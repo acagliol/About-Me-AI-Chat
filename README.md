@@ -50,8 +50,8 @@ portfolio-chat/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/acagliol/alejo-port.git
-   cd alejo-port
+   git clone https://github.com/acagliol/About-Me-AI-Chat.git
+   cd About-Me-AI-Chat
    ```
 
 2. Install dependencies:
