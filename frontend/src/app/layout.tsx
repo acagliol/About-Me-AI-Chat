@@ -10,8 +10,15 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata: Metadata = {
-  title: "Alejo's Portfolio",
+  title: "Alejo Cagliolo – ChatGPT-Style Portfolio | Purdue University",
   description: "Personal portfolio and chat interface",
+  icons: {
+    icon: [
+      { url: '/purduelogo.png', type: 'image/png' },
+    ],
+    shortcut: '/purduelogo.png',
+    apple: '/purduelogo.png',
+  },
   keywords: [
     "Alejo Cagliolo",
     "Software Engineer",
