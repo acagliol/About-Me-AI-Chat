@@ -2,11 +2,11 @@
 
 A personal portfolio site built as a ChatGPT-style wrapper. Instead of reading about me, recruiters can chat with an AI version of me to learn about my background, projects, and interests.
 
-## 🚀 Live Demo
+## Live Demo
 
 Visit [acagliol.com](https://acagliol.com) to chat with the AI version of me!
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Next.js 14** – React framework with SSR and API support
@@ -26,7 +26,7 @@ Visit [acagliol.com](https://acagliol.com) to chat with the AI version of me!
 - **Tailwind Merge** – Utility class management
 - **Vercel Analytics** – Performance monitoring
 
-## 💡 Features
+## Features
 
 - ChatGPT-style interface with a modern, clean design
 - Real-time AI responses about my background, projects, and interests
@@ -35,7 +35,7 @@ Visit [acagliol.com](https://acagliol.com) to chat with the AI version of me!
 - Type-safe development with TypeScript
 - Performance optimized with Next.js
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 portfolio-chat/
@@ -46,7 +46,7 @@ portfolio-chat/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
@@ -74,11 +74,11 @@ portfolio-chat/
 
 5. Open [http://localhost:3000](http://localhost:3000) to see the result.
 
-## 🔗 Links
+## Links
 
 - **Live Site:** [acagliol.com](https://acagliol.com)
-- **Source Code:** [github.com/acagliol/alejo-port](https://github.com/acagliol/alejo-port)
+- **Source Code:** [github.com/acagliol/About-Me-AI-Chat](https://github.com/acagliol/About-Me-AI-Chat)
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
