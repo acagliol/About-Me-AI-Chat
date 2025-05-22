@@ -4,7 +4,7 @@ A personal portfolio site built as a ChatGPT-style wrapper. Instead of reading a
 
 ## Live Demo
 
-Visit [acagliol.com](https://acagliol.com) to chat with the AI version of me!
+Visit [about-me-ai-chat-git-main-acagliols-projects.vercel.app](https://about-me-ai-chat-git-main-acagliols-projects.vercel.app) to chat with the AI version of me!
 
 ## Tech Stack
 
