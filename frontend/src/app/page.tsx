@@ -103,14 +103,14 @@ function HomeContent() {
               <div className="bg-zinc-700/30 p-1 sm:p-1.5 rounded-md">
                 <h3 className="font-medium text-[10px] sm:text-xs md:text-sm text-sky-400">Software Engineer Intern</h3>
                 <div className="flex items-center gap-1 sm:gap-2 text-[8px] sm:text-[10px] md:text-xs text-zinc-400">
-                  <img src="/vertikaltranslogo.png" alt="Vertikal X Logo" className="h-2.5 sm:h-3 md:h-4 w-auto" />
+                  <img src="/vertikaltrans.png" alt="Vertikal X Logo" className="h-[42.5px] sm:h-[43px] md:h-[44px] w-auto" />
                   <span>Vertikal X — Present</span>
                 </div>
               </div>
               <div className="bg-zinc-700/30 p-1 sm:p-1.5 rounded-md">
-                <h3 className="font-medium text-[10px] sm:text-xs md:text-sm text-sky-400">Software Engineer Intern</h3>
+                <h3 className="font-medium text-[10px] sm:text-xs md:text-sm text-sky-400">Summer Intern</h3>
                 <div className="flex items-center gap-1 sm:gap-2 text-[8px] sm:text-[10px] md:text-xs text-zinc-400">
-                  <img src="/meshtrans.logo" alt="Mesh Verify Logo" className="h-2.5 sm:h-3 md:h-4 w-auto" />
+                  <img src="/meshtrans.png" alt="Mesh Verify Logo" className="h-[32.5px] sm:h-[33px] md:h-[34px] w-auto" />
                   <span>Mesh Verify — Summer 2023</span>
                 </div>
               </div>
