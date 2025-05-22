@@ -14,10 +14,10 @@ export const metadata: Metadata = {
   description: "Personal portfolio and chat interface",
   icons: {
     icon: [
-      { url: '/purduelogo.png', type: 'image/png' },
+      { url: '/pinkpanther2.png', type: 'image/png' },
     ],
-    shortcut: '/purduelogo.png',
-    apple: '/purduelogo.png',
+    shortcut: '/pinkpanther2.png',
+    apple: '/pinkpanther2.png',
   },
   keywords: [
     "Alejo Cagliolo",

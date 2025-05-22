@@ -45,8 +45,7 @@ function HomeContent() {
           {/* Profile Header */}
           <div className="flex flex-col items-center text-center space-y-4">
             <Avatar className="h-24 w-24 border-2 border-sky-400">
-              <AvatarFallback className="text-2xl bg-sky-400 text-zinc-900">AC</AvatarFallback>
-              <AvatarImage src="/avatar.png" alt="Alejo Cagliolo" />
+              <AvatarImage src="/pinkpanther.png" alt="Alejo Cagliolo" />
             </Avatar>
             <div>
               <h1 className="text-2xl font-bold">Alejo Cagliolo</h1>
@@ -87,7 +86,10 @@ function HomeContent() {
             <div className="space-y-3">
               <div className="bg-zinc-700/30 p-3 rounded-md">
                 <h3 className="font-medium text-sky-400">Software Engineer Intern</h3>
-                <p className="text-sm text-zinc-400">Vertikal X — Present</p>
+                <div className="flex items-center gap-2 text-sm text-zinc-400">
+                  <img src="/vertikalx.png" alt="Vertikal X Logo" className="h-5 w-auto" />
+                  <span>Vertikal X — Present</span>
+                </div>
               </div>
             </div>
           </div>
@@ -103,7 +105,10 @@ function HomeContent() {
             <div className="space-y-3">
               <div className="bg-zinc-700/30 p-3 rounded-md">
                 <h3 className="font-medium text-sky-400">Bachelor of Science in Computer Science</h3>
-                <p className="text-sm text-zinc-400">Purdue University — Class of 2028</p>
+                <div className="flex items-center gap-2 text-sm text-zinc-400">
+                  <img src="/purduelogo.png" alt="Purdue University Logo" className="h-5 w-auto" />
+                  <span>Purdue University — Class of 2028</span>
+                </div>
                 <p className="text-sm text-zinc-400 mt-1">Focus on Software Engineering and AI</p>
               </div>
             </div>
